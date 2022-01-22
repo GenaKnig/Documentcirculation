@@ -1,0 +1,54 @@
+D:\Bakalavrat\tcpsendfiles2\tcpsendfiles2\bin\Debug\TcpSendFiles.exe.config
+D:\Bakalavrat\tcpsendfiles2\tcpsendfiles2\bin\Debug\TcpSendFiles.exe
+D:\Bakalavrat\tcpsendfiles2\tcpsendfiles2\bin\Debug\TcpSendFiles.pdb
+D:\Bakalavrat\tcpsendfiles2\tcpsendfiles2\obj\x86\Debug\tcpsendfiles.csprojAssemblyReference.cache
+D:\Bakalavrat\tcpsendfiles2\tcpsendfiles2\obj\x86\Debug\TcpSendFiles.Form1.resources
+D:\Bakalavrat\tcpsendfiles2\tcpsendfiles2\obj\x86\Debug\TcpSendFiles.Properties.Resources.resources
+D:\Bakalavrat\tcpsendfiles2\tcpsendfiles2\obj\x86\Debug\tcpsendfiles.csproj.GenerateResource.cache
+D:\Bakalavrat\tcpsendfiles2\tcpsendfiles2\obj\x86\Debug\TcpSendFiles.exe
+D:\Bakalavrat\tcpsendfiles2\tcpsendfiles2\obj\x86\Debug\TcpSendFiles.pdb
+H:\Навчальний сектор\ВНТУ\4 КУРС\Бакалаврська\sources\Взяті джерела\tcpsendfiles2\tcpsendfiles2\bin\Debug\TcpSendFiles.exe.config
+H:\Навчальний сектор\ВНТУ\4 КУРС\Бакалаврська\sources\Взяті джерела\tcpsendfiles2\tcpsendfiles2\bin\Debug\TcpSendFiles.exe
+H:\Навчальний сектор\ВНТУ\4 КУРС\Бакалаврська\sources\Взяті джерела\tcpsendfiles2\tcpsendfiles2\bin\Debug\TcpSendFiles.pdb
+H:\Навчальний сектор\ВНТУ\4 КУРС\Бакалаврська\sources\Взяті джерела\tcpsendfiles2\tcpsendfiles2\obj\x86\Debug\tcpsendfiles.csprojAssemblyReference.cache
+H:\Навчальний сектор\ВНТУ\4 КУРС\Бакалаврська\sources\Взяті джерела\tcpsendfiles2\tcpsendfiles2\obj\x86\Debug\TcpSendFiles.Form1.resources
+H:\Навчальний сектор\ВНТУ\4 КУРС\Бакалаврська\sources\Взяті джерела\tcpsendfiles2\tcpsendfiles2\obj\x86\Debug\TcpSendFiles.Properties.Resources.resources
+H:\Навчальний сектор\ВНТУ\4 КУРС\Бакалаврська\sources\Взяті джерела\tcpsendfiles2\tcpsendfiles2\obj\x86\Debug\tcpsendfiles.csproj.GenerateResource.cache
+H:\Навчальний сектор\ВНТУ\4 КУРС\Бакалаврська\sources\Взяті джерела\tcpsendfiles2\tcpsendfiles2\obj\x86\Debug\TcpSendFiles.exe
+H:\Навчальний сектор\ВНТУ\4 КУРС\Бакалаврська\sources\Взяті джерела\tcpsendfiles2\tcpsendfiles2\obj\x86\Debug\TcpSendFiles.pdb
+D:\Bakalavrat\tcpsendfiles2\bin\Debug\TcpSendFiles.exe.config
+D:\Bakalavrat\tcpsendfiles2\bin\Debug\TcpSendFiles.exe
+D:\Bakalavrat\tcpsendfiles2\bin\Debug\TcpSendFiles.pdb
+D:\Bakalavrat\tcpsendfiles2\obj\x86\Debug\tcpsendfiles.csprojAssemblyReference.cache
+D:\Bakalavrat\tcpsendfiles2\obj\x86\Debug\TcpSendFiles.Form1.resources
+D:\Bakalavrat\tcpsendfiles2\obj\x86\Debug\TcpSendFiles.Properties.Resources.resources
+D:\Bakalavrat\tcpsendfiles2\obj\x86\Debug\tcpsendfiles.csproj.GenerateResource.cache
+D:\Bakalavrat\tcpsendfiles2\obj\x86\Debug\TcpSendFiles.exe
+D:\Bakalavrat\tcpsendfiles2\obj\x86\Debug\TcpSendFiles.pdb
+D:\Bakalavrat\Modul\tcpsendfiles2\bin\Debug\TcpSendFiles.exe.config
+D:\Bakalavrat\Modul\tcpsendfiles2\bin\Debug\TcpSendFiles.exe
+D:\Bakalavrat\Modul\tcpsendfiles2\bin\Debug\TcpSendFiles.pdb
+D:\Bakalavrat\Modul\tcpsendfiles2\obj\x86\Debug\tcpsendfiles.csprojAssemblyReference.cache
+D:\Bakalavrat\Modul\tcpsendfiles2\obj\x86\Debug\TcpSendFiles.Form1.resources
+D:\Bakalavrat\Modul\tcpsendfiles2\obj\x86\Debug\TcpSendFiles.Properties.Resources.resources
+D:\Bakalavrat\Modul\tcpsendfiles2\obj\x86\Debug\tcpsendfiles.csproj.GenerateResource.cache
+D:\Bakalavrat\Modul\tcpsendfiles2\obj\x86\Debug\tcpsendfiles.csproj.CoreCompileInputs.cache
+D:\Bakalavrat\Modul\tcpsendfiles2\obj\x86\Debug\TcpSendFiles.exe
+D:\Bakalavrat\Modul\tcpsendfiles2\obj\x86\Debug\TcpSendFiles.pdb
+D:\Bakalavrat\Modul\AllModul\obj\x86\Debug\tcpsendfiles.csprojAssemblyReference.cache
+D:\Bakalavrat\Modul\AllModul\obj\x86\Debug\TcpSendFiles.Form1.resources
+D:\Bakalavrat\Modul\AllModul\obj\x86\Debug\TcpSendFiles.Properties.Resources.resources
+D:\Bakalavrat\Modul\AllModul\obj\x86\Debug\tcpsendfiles.csproj.GenerateResource.cache
+D:\Bakalavrat\Modul\AllModul\obj\x86\Debug\tcpsendfiles.csproj.CoreCompileInputs.cache
+D:\Bakalavrat\Modul\AllModul\obj\x86\Debug\TcpSendFiles.exe
+D:\Bakalavrat\Modul\AllModul\obj\x86\Debug\TcpSendFiles.pdb
+D:\Bakalavrat\Modul\AllModul\obj\x86\Debug\cryptOS.mainForm.resources
+D:\Bakalavrat\Modul\AllModul\bin\Debug\TcpSendFiles.exe
+D:\Bakalavrat\Modul\AllModul\bin\Debug\TcpSendFiles.pdb
+D:\Bakalavrat\Modul\AllModul\bin\Debug\FileContainer.dll
+D:\Bakalavrat\Modul\AllModul\bin\Debug\FileContainer.pdb
+D:\Bakalavrat\Modul\AllModul\obj\x86\Debug\tcpsendfiles.csproj.CopyComplete
+D:\Bakalavrat\Modul\AllModul\obj\x86\Debug\FileContainerUI.FileContainerEditForm.resources
+D:\Bakalavrat\Modul\AllModul\obj\x86\Debug\FileContainerUI.Waiter.WaiterForm.resources
+D:\Bakalavrat\Modul\AllModul\obj\x86\Debug\TcpSendFiles.Verification.resources
+D:\Bakalavrat\Modul\AllModul\obj\x86\Debug\TcpSendFiles.FirstForm.resources

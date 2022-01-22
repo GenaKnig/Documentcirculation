@@ -1,0 +1,17 @@
+D:\Bakalavrat\FileContainer-master\FileContainer\bin\Debug\FileContainer.dll
+D:\Bakalavrat\FileContainer-master\FileContainer\bin\Debug\FileContainer.pdb
+D:\Bakalavrat\FileContainer-master\FileContainer\obj\Debug\FileContainer.csprojAssemblyReference.cache
+D:\Bakalavrat\FileContainer-master\FileContainer\obj\Debug\FileContainer.dll
+D:\Bakalavrat\FileContainer-master\FileContainer\obj\Debug\FileContainer.pdb
+D:\Bakalavrat\Modul\FileContainer\FileContainer\bin\Debug\FileContainer.dll
+D:\Bakalavrat\Modul\FileContainer\FileContainer\bin\Debug\FileContainer.pdb
+D:\Bakalavrat\Modul\FileContainer\FileContainer\obj\Debug\FileContainer.csprojAssemblyReference.cache
+D:\Bakalavrat\Modul\FileContainer\FileContainer\obj\Debug\FileContainer.csproj.CoreCompileInputs.cache
+D:\Bakalavrat\Modul\FileContainer\FileContainer\obj\Debug\FileContainer.dll
+D:\Bakalavrat\Modul\FileContainer\FileContainer\obj\Debug\FileContainer.pdb
+D:\Bakalavrat\Modul\AllModul\FileContainer\bin\Debug\FileContainer.dll
+D:\Bakalavrat\Modul\AllModul\FileContainer\bin\Debug\FileContainer.pdb
+D:\Bakalavrat\Modul\AllModul\FileContainer\obj\Debug\FileContainer.csproj.CoreCompileInputs.cache
+D:\Bakalavrat\Modul\AllModul\FileContainer\obj\Debug\FileContainer.dll
+D:\Bakalavrat\Modul\AllModul\FileContainer\obj\Debug\FileContainer.pdb
+D:\Bakalavrat\Modul\AllModul\FileContainer\obj\Debug\FileContainer.csprojAssemblyReference.cache
